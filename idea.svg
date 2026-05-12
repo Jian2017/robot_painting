@@ -1,4 +1,3 @@
-```svg
 <svg width="1800" height="1000" viewBox="0 0 1800 1000" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <style>
@@ -145,6 +144,5 @@
     Robot becomes an adaptive creative partner instead of a printer.
   </text>
 </svg>
-```
 
 Save this as `painting_robot_brain.svg`. SVG is vector-based, so it can be zoomed infinitely without becoming blurry. Perfect for GitHub Gist, posters, and competition submissions.
