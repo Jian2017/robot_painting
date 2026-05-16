@@ -1,0 +1,9 @@
+venv/
+.venv/
+vendor/
+
+# Hugging Face / LeRobot caches (can be large; optional to keep local)
+.cache/
+
+# macOS
+.DS_Store
