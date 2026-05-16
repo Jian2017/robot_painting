@@ -1,0 +1,2 @@
+fashionstar-uart-sdk
+pyserial
