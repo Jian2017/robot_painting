@@ -1,5 +1,7 @@
 # Project Conclusion: Robot Painting Demo
 
+![Demo](demo.gif)
+
 ## Goal
 
 Build a robot arm demo that detects a cookie on a table and moves the arm toward it —
